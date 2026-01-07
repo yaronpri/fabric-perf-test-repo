@@ -1,7 +1,7 @@
 # fabric-perf-test-repo
-This repo generates 300 notebooks in your Fabric workspace
+This is a sample repo contain sample code for generating 300 notebooks in your Fabric Workspace.
 
-This was generate using the [Fabric MCP Server](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-mcp-server&ssr=false#overview)
+To generate the content of this sample, we used [Fabric MCP Server](https://marketplace.visualstudio.com/items?itemName=fabric.vscode-fabric-mcp-server&ssr=false#overview)
 
 To execute the generation process, run:
 ```
