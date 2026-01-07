@@ -1,0 +1,17 @@
+{
+  "displayName": "Notebook 228",
+  "description": "A notebook description",
+  "type": "Notebook",
+  "parts": [
+    {
+      "path": "notebook-content.py",
+      "payload": "ewogICJuYmZvcm1hdCI6IDQsCiAgIm5iZm9ybWF0X21pbm9yIjogNSwKICAiY2VsbHMiOiBbCiAgICB7CiAgICAgICJjZWxsX3R5cGUiOiAibWFya2Rvd24iLAogICAgICAibWV0YWRhdGEiOiB7CiAgICAgICAgImxhbmd1YWdlIjogIm1hcmtkb3duIgogICAgICB9LAogICAgICAic291cmNlIjogWwogICAgICAgICIjIE5vdGVib29rIiwKICAgICAgICAiR2VuZXJhdGVkIG5vdGVib29rICMxIGZvciBGYWJyaWMgaW1wb3J0LiIKICAgICAgXQogICAgfSwKICAgIHsKICAgICAgImNlbGxfdHlwZSI6ICJjb2RlIiwKICAgICAgIm1ldGFkYXRhIjogewogICAgICAgICJsYW5ndWFnZSI6ICJweXRob24iCiAgICAgIH0sCiAgICAgICJleGVjdXRpb25fY291bnQiOiBudWxsLAogICAgICAib3V0cHV0cyI6IFtdLAogICAgICAic291cmNlIjogWwogICAgICAgICIjIFNhbXBsZSBjZWxsIiwKICAgICAgICAicHJpbnQoXCJIZWxsbyBmcm9tIGdlbmVyYXRlZCBub3RlYm9va1wiKSIKICAgICAgXQogICAgfQogIF0sCiAgIm1ldGFkYXRhIjogewogICAgImxhbmd1YWdlX2luZm8iOiB7CiAgICAgICJuYW1lIjogInB5dGhvbiIKICAgIH0KICB9Cn0=",
+      "payloadType": "InlineBase64"
+    },
+    {
+      "path": ".platform",
+      "payload": "eyJrZXJuZWxfaW5mbyI6eyJuYW1lIjoic3luYXBzZV9weXNwYXJrIn0sImRlcGVuZGVuY2llcyI6e30sImRpc3BsYXlOYW1lIjoiR2VuZXJhdGVkIE5vdGVib29rIDEiLCJtZXRhZGF0YSI6eyJsYW5ndWFnZSI6InB5dGhvbiIsImxhbmd1YWdlX2dyb3VwIjoic3luYXBzZV9weXNwYXJrIn19",
+      "payloadType": "InlineBase64"
+    }
+  ]
+}
